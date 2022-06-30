@@ -11,7 +11,7 @@
 </section>
 <p>This is our <a href="https://f-droid.org">F-Droid</a> app repository for the official, trusted builds of our apps. This repo can be accessed via an HTTPS connection:</p>
 <h2 id="direct-https">Direct HTTPS</h2>
-<a href="https://eyedeekay.github.io/fdroid/repo?fingerprint=22658CC69F48D63F63C3D64E2041C81714E2749F3F6E5445C825297A00DDC5B6">https://eyedeekay.github.io/fdroid/repo<br />
+<a href="https://f-droid.i2p.io/repo?fingerprint=22658CC69F48D63F63C3D64E2041C81714E2749F3F6E5445C825297A00DDC5B6">https://f-droid.i2p.io/repo<br />
 <img src="/f-droid.i2p.io-QR.png" width="245" height="245" alt="f-droid.i2p.io" /></a>
 <h2 id="signing-key-fingerprint">Signing Key Fingerprint</h2>
 <div class="textwidget">
@@ -20,8 +20,8 @@
 </div>
 <h2 id="questions-or-problems">Questions or Problems?</h2>
 <div class="textwidget">
-<p>If you have any questions or problems please file a gitlab issue at:</p>
-<a href="https://i2pgit.org/i2p-hackers/i2p.android.base">https://i2pgit.org/i2p-hackers/i2p.android.base</a>
+<p>If you have any questions or problems please email us at:</p>
+<a href="mailto:android-support@privacysolutions.no">android-support@privacysolutions.no</a>
 </div>
 </div>
 <section id="mirrors" class="aside first">
@@ -44,4 +44,14 @@
 <li><a href="http://syndie.i2p2.de/">Syndie</a></li>
 </ul>
 </section>
+<section id="t-shirts" class="aside fourth">
+<h1>T-Shirts!</h1>
+<ul>
+<li><a href="http://www.getdigital.de/products/I2P_Fanshirt/lng/en">Europe</a></li>
+<li><a href="https://i2pshop.spreadshirt.com/">USA</a></li>
+</ul>
+</section>
+<div class="aside fifth">
+<a href="https://geti2p.net/en/get-involved/donate" class="button">Donate</a>
+</div>
 </div>
